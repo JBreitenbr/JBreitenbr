@@ -1,5 +1,5 @@
 ## Hi there 👋
-- ⚡ Fun fact: Maybe there will be soon something funny ...
+**⚡ Fun fact: Maybe there will be soon something funny ...**
 <!--
 **JBreitenbr/JBreitenbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
